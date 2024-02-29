@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store  # macOS-specific desktop files
+Thumbs.db  # Windows thumbnail cache
+
+# Development Environments/IDEs 
+.idea/     # IntelliJ IDEA
+.vscode/   # Visual Studio Code
+__pycache__/  # Python bytecode
+*.py[cod]     # Python bytecode (alternative)
+
+# Build Output/Artifacts
+build/
+dist/
+out/
+node_modules/   # Node.js dependencies
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# Personal Configuration Files (adjust as needed)
+.env           # Environment variables (consider using .env.example)
+.gitconfig     # Local Git configuration
