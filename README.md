@@ -2,7 +2,7 @@
 
 **Theme:** AI assistant for comprehensive job interview preparation.
 
-**Value Proposition:** AutoInterview helps candidates streamline their interview readiness by providing tailored responses, facilitating oral rehearsals, and offering personalized feedback.
+**Value Proposition:** We help candidates find their dream job quickly, without breaking the bank
 
 **Project Roadmap**
 
