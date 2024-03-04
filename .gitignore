@@ -22,3 +22,8 @@ node_modules/
 # Personal Configuration Files (adjust as needed)
 .env
 .gitconfig
+
+# Test notebooks
+test.ipynb
+# Package setup
+*.egg-info
