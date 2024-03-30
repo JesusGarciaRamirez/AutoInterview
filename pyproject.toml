@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "autointerview"
+version = "0.1.0"
+description = ""
+authors = [
+            "Jesus Garcia <jgarciaramirezai@gmail.com>",
+            "Maria Carla Gonzalez <carla.glezz@gmail.com>"
+        ]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+langchain = "^0.1.11"
+pandas = "^2.2.1"
+langchain-community = "^0.0.25"
+streamlit-chat = "^0.1.1"
+altair = "<5"
+langgraph = "^0.0.30"
+tiktoken = "^0.6.0"
+sentence-transformers = "^2.6.0"
+chromadb = "^0.4.24"
+pypdf = "^4.1.0"
+ollama = "^0.1.7"
+modal = "^0.61.95"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
