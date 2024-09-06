@@ -2,7 +2,7 @@
 
 **Theme:** AI assistant for comprehensive job interview preparation.
 
-**Value Proposition:** We help candidates find their dream job quickly, without breaking the bank
+**Value Proposition:** We help candidates find their dream job quickly, without breaking the bank.
 
 **Project Roadmap**
 
